@@ -19,9 +19,9 @@ Algorithm starts with the 2nd element
 16 22 27 | 2 18 6 => 2nd step
 2 < 16, 22 and 27 so our new first element is 2
 2 16 22 27 | 18 6 => 3rd step
-same comparasion processes between 18 and the other sorted elements so it goes between 16 and 22
+same comparison processes between 18 and the other sorted elements so it goes between 16 and 22
 2 16 18 22 27 | 6 => 4th step
-same comparasion processes between 6 and the other sorted elements so it goes between 2 and 18
+same comparison processes between 6 and the other sorted elements so it goes between 2 and 18
 2 6 16 18 22 27 => 5th and final step
 
 2. 
